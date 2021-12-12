@@ -1,4 +1,4 @@
-# DA_SQL_2
+# DA_Python
 
 Analyzing the data set of IPL matches from 2008 to 2020 on the following queries:- </br>
 * Which Team has won the most number of IPL matches. </br>
